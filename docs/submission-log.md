@@ -59,4 +59,58 @@
 
 ---
 
-**总计：15 次成功提交（3 个工具 × 5 个目录站）**
+## 2026-05-28 第二轮提交记录
+
+### 提交汇总
+
+| # | 目录站 | 工具站 | 状态 | 备注 |
+|---|--------|--------|------|------|
+| 16 | phygital.plus | calculator-tools.todonot.com | ✅ 成功 | "Thank you for your submission!" |
+| 17 | phygital.plus | cimg.todonot.com | ✅ 成功 | 同上 |
+| 18 | phygital.plus | draw.todonot.com | ✅ 成功 | 同上 |
+| 19 | listedai.co | calculator-tools.todonot.com | ✅ 成功 | 表单清空确认提交 |
+| 20 | listedai.co | cimg.todonot.com | ✅ 成功 | 同上 |
+| 21 | listedai.co | draw.todonot.com | ✅ 成功 | 同上 |
+| 22 | aitoolsguide.com | calculator-tools.todonot.com | ✅ 成功 | 表单清空确认提交 |
+| 23 | aitoolsguide.com | cimg.todonot.com | ✅ 成功 | 同上 |
+| 24 | aitoolsguide.com | draw.todonot.com | ✅ 成功 | 同上 |
+| 25 | freewebsubmission.com | calculator-tools.todonot.com | ⏳ 待验证 | 需点击验证邮件链接，提交到多个搜索引擎 |
+
+### 第二轮跳过的站点
+
+| 目录站 | 原因 |
+|--------|------|
+| aigist.org | reCAPTCHA 验证码 |
+| aitoolxplorer.com | SSL_VERSION_OR_CIPHER_MISMATCH 错误 |
+| linktoai.top | SSL 证书过期 (ERR_CERT_DATE_INVALID) |
+| freework.ai | 连接关闭 (ERR_CONNECTION_CLOSED) |
+| similartool.ai | 522 连接超时 |
+| aitoolsmarketer.com | reCAPTCHA + 必填分类字段 |
+| marsx.dev | 非目录站，是开发平台 |
+| affordhunt.com | 404 页面不存在 |
+| lachief.io | Tally 表单需上传图片（必填） |
+| toolscout.ai | 60s 超时无响应 |
+| aibluebook.com | 60s 超时无响应 |
+| phdeck.com | 60s 超时无响应 |
+| devhunt.org | 60s 超时无响应 |
+| advanced-innovation.io | 60s 超时无响应 |
+| insidr.ai | 60s 超时无响应 |
+| fazier.com | 60s 超时无响应 |
+| toolsai.net | 60s 超时无响应 |
+| exactseek.com | 需要验证码 |
+| saashub.com | 需要登录 |
+| betalist.com | 需要登录 |
+| toptools.ai | 应用错误 (Application Error) |
+| toolspedia.io | 隐藏 reCAPTCHA |
+| aitoolboard.com | 需上传图片（必填） |
+| aitools.fyi | 需付费 |
+| futurepedia.io | 需付费 |
+| startupaitools.com | 需付费 ($6) |
+| aixcollection.com | 需要登录 |
+| freewebsubmission.com (cimg/draw) | 每天限提交1次，需先验证邮箱 |
+
+---
+
+**第一轮总计：15 次成功提交（3 个工具 × 5 个目录站）**
+**第二轮总计：9 次成功提交（3 个工具 × 3 个目录站）+ 1 次待验证**
+**累计总计：24 次成功提交 + 1 次待验证**
