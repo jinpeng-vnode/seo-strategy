@@ -255,3 +255,23 @@
 **第五轮总计：6 次成功提交（2 个目录站）**
 **IndexNow：3 个站共 368 个URL 提交成功**
 **累计总计：61 次成功提交 + 1 次待验证（跨5轮，共22个不同目录站）**
+
+---
+
+## 2026-05-29 第六轮提交记录
+
+### IndexNow 批量提交（全站所有页面）
+
+| 站点 | 提交域名 | URL数量 | Bing | Yandex | Key |
+|------|----------|---------|------|--------|-----|
+| Calculator Tools | calc.tools | 140 | ✅ HTTP 202 | ✅ HTTP 202 | seo2026-indexnow-key |
+| Image Compress Tools | cimg.todonot.com | 215 | ✅ HTTP 200 | ✅ HTTP 202 | seo2026-indexnow-key |
+| Draw (Excalidraw Hub) | draw.todonot.com | 113 | ✅ HTTP 200 | ✅ HTTP 202 | seo2026-indexnow-key |
+
+**提交配置**:
+- Calculator Tools: host=calc.tools, keyLocation=https://calc.tools/seo2026-indexnow-key.txt
+- Image Compress Tools: host=cimg.todonot.com, keyLocation=https://cimg.todonot.com/seo2026.txt
+- Draw: host=draw.todonot.com, keyLocation=https://draw.todonot.com/seo2026.txt
+
+**第六轮总计：3 个站共 468 个URL 全部提交成功（Bing + Yandex 双端）**
+**累计总计：61 次目录站提交 + 1 次待验证 + IndexNow 6轮提交（跨6轮，共22个不同目录站）**
