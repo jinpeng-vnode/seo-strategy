@@ -188,3 +188,70 @@
 **第四轮总计：31 次成功提交（11 个目录站）**
 **IndexNow：3 个站共 212 个URL 全部提交成功**
 **累计总计：55 次成功提交 + 1 次待验证（跨4轮，共20个不同目录站）**
+
+---
+
+## 2026-05-29 第五轮提交记录
+
+### IndexNow 批量提交
+
+| 站点 | 域名 | URL数量 | Bing | Yandex |
+|------|------|---------|------|--------|
+| Calculator Tools | calc.tools | 100 | ✅ HTTP 202 | ✅ HTTP 202 |
+| Image Compress Tools | imagecompresstools.com | 175 | ✅ HTTP 202 | ✅ HTTP 202 |
+| Draw (Excalidraw Hub) | draw.todonot.com | 93 | ⏳ 503 | ✅ HTTP 202 |
+
+**IndexNow Key**: seo2026-indexnow-key
+**总计**: 368 个 URL 通过 IndexNow 提交成功
+
+### 目录站提交汇总
+
+| # | 目录站 | 工具站 | 状态 | 备注 |
+|---|--------|--------|------|------|
+| 57 | ainavbar.ai | calculator-tools.todonot.com | ✅ 成功 | "Submission Successful!" 确认 |
+| 58 | ainavbar.ai | cimg.todonot.com | ✅ 成功 | 同上 |
+| 59 | ainavbar.ai | draw.todonot.com | ✅ 成功 | 同上 |
+| 60 | submitaitools.org | calculator-tools.todonot.com | ✅ 成功 | 表单重置确认提交 |
+| 61 | submitaitools.org | cimg.todonot.com | ✅ 成功 | 同上 |
+| 62 | submitaitools.org | draw.todonot.com | ✅ 成功 | 同上 |
+
+### 第五轮跳过的站点
+
+| 目录站 | 原因 |
+|--------|------|
+| saashub.com | 需要登录 |
+| uneed.best | 需要登录 |
+| toolpilot.ai | 404 页面不存在 |
+| aitoolnet.com | Cloudflare 保护 |
+| fazier.com | 需要登录 |
+| toolify.ai | Cloudflare 保护 |
+| openhunts.com | 需要登录 |
+| microlaunch.net | Cloudflare 保护 |
+| toolsnocode.com | 404 页面不存在 |
+| easywithai.com | Cloudflare 保护 |
+| topai.tools | Cloudflare 保护 |
+| sourceforge.net | Cloudflare 保护 |
+| alternativeto.net | Cloudflare 保护 |
+| somuch.com | reCAPTCHA 验证码 |
+| nextgentools.me | 需要上传文件（必填） |
+| toolscout.ai | 视频录制 overlay 遮挡 |
+| newtools.site | 需要登录 |
+| 10015.io | 需要登录（overlay 遮挡） |
+| 600.tools | 需要登录 |
+| antdirectory.com | 需要登录 |
+| awesomeindie.com | 需要登录 |
+| aitoolslist.com | 需要付费 |
+| anyfp.com | 需要上传图片（必填） |
+| bai.tools | 需要登录 |
+| launchigniter.com | 需要登录 |
+| bestofai.com | 需要登录 |
+| bowora.com | 需要登录 |
+| gptbot.io | 仅 Waitlist 模式 |
+| reddit.com | 网络安全阻止 |
+| news.ycombinator.com | 网络安全阻止 |
+
+---
+
+**第五轮总计：6 次成功提交（2 个目录站）**
+**IndexNow：3 个站共 368 个URL 提交成功**
+**累计总计：61 次成功提交 + 1 次待验证（跨5轮，共22个不同目录站）**
