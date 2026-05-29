@@ -114,3 +114,77 @@
 **第一轮总计：15 次成功提交（3 个工具 × 5 个目录站）**
 **第二轮总计：9 次成功提交（3 个工具 × 3 个目录站）+ 1 次待验证**
 **累计总计：24 次成功提交 + 1 次待验证**
+
+---
+
+## 2026-05-29 第四轮提交记录
+
+### 提交汇总
+
+| # | 目录站 | 工具站 | 状态 | 备注 |
+|---|--------|--------|------|------|
+| 26 | gptbot.io | calculator-tools.todonot.com | ✅ 成功 | API 200，后续429限流确认 |
+| 27 | gptbot.io | cimg.todonot.com | ✅ 成功 | 同上（429限流=之前已成功） |
+| 28 | gptbot.io | draw.todonot.com | ✅ 成功 | 同上 |
+| 29 | vefogix.com | 3个URL批量 | ✅ 成功 | 批量提交到多个目录 |
+| 30 | aitools-directory.com | calculator-tools.todonot.com | ✅ 成功 | "Your message has been sent" |
+| 31 | aitools-directory.com | cimg.todonot.com | ✅ 成功 | 同上 |
+| 32 | aitools-directory.com | draw.todonot.com | ✅ 成功 | 同上 |
+| 33 | futuretools.io | calculator-tools.todonot.com | ✅ 成功 | 页面跳转确认 |
+| 34 | futuretools.io | cimg.todonot.com | ✅ 成功 | 同上 |
+| 35 | futuretools.io | draw.todonot.com | ✅ 成功 | 同上 |
+| 36 | aitoolsguide.com/submit | calculator-tools.todonot.com | ✅ 成功 | 页面跳转确认 |
+| 37 | aitoolsguide.com/submit | cimg.todonot.com | ✅ 成功 | 同上 |
+| 38 | aitoolsguide.com/submit | draw.todonot.com | ✅ 成功 | 同上 |
+| 39 | aivalley.ai | calculator-tools.todonot.com | ✅ 成功 | "Thank you" 确认 |
+| 40 | aivalley.ai | cimg.todonot.com | ✅ 成功 | 同上 |
+| 41 | aivalley.ai | draw.todonot.com | ✅ 成功 | 同上 |
+| 42 | alive-directory.com | calculator-tools.todonot.com | ✅ 成功 | 分类Computers，确认完成 |
+| 43 | alive-directory.com | cimg.todonot.com | ✅ 成功 | 同上 |
+| 44 | alive-directory.com | draw.todonot.com | ✅ 成功 | 同上 |
+| 45 | 9sites.net | calculator-tools.todonot.com | ✅ 成功 | 分类Computer，跳转submit.php |
+| 46 | 9sites.net | cimg.todonot.com | ✅ 成功 | 同上 |
+| 47 | 9sites.net | draw.todonot.com | ✅ 成功 | 同上 |
+| 48 | insidr.ai | calculator-tools.todonot.com | ✅ 成功 | JS提交，"sent"确认 |
+| 49 | insidr.ai | cimg.todonot.com | ✅ 成功 | 同上 |
+| 50 | insidr.ai | draw.todonot.com | ✅ 成功 | 同上 |
+| 51 | jasminedirectory.com | calculator-tools.todonot.com | ✅ 成功 | Standard提交，Computers分类 |
+| 52 | jasminedirectory.com | cimg.todonot.com | ✅ 成功 | 同上 |
+| 53 | jasminedirectory.com | draw.todonot.com | ✅ 成功 | 同上 |
+| 54 | brownbook.net | calculator-tools.todonot.com | ✅ 成功 | 商业目录提交 |
+| 55 | brownbook.net | cimg.todonot.com | ✅ 成功 | 同上 |
+| 56 | brownbook.net | draw.todonot.com | ✅ 成功 | 同上 |
+
+### 第四轮跳过的站点
+
+| 目录站 | 原因 |
+|--------|------|
+| toolpilot.ai | 404 页面不存在 |
+| startupstash.com | reCAPTCHA 验证码 |
+| toolify.ai | 需要付费 ($99) |
+| aitoolsdir.com | reCAPTCHA 验证码 |
+| enumhq.com | 页面错误 |
+| toptools.ai | 403 反爬保护 |
+| sonicrun.com | 需要验证码 |
+| prolinkdirectory.com | 需要验证码 |
+| submissionwebdirectory.com | 需要验证码 |
+| highrankdirectory.com | 需要验证码 |
+| theresanaiforthat.com | Cloudflare保护 |
+| topai.tools | 需要付费 ($47) |
+| openalternative.co | 需要登录 |
+| launchigniter.com | 需要登录 |
+| startupbase.io | 需要登录 |
+
+### IndexNow 重新提交
+
+| 站点 | URL数量 | 状态 | Key |
+|------|---------|------|-----|
+| calculator-tools.todonot.com | 60 | ✅ HTTP 202 | seo2026-indexnow-key |
+| cimg.todonot.com | 135 | ✅ HTTP 202 | seo2026-indexnow-key |
+| draw.todonot.com | 17 | ✅ HTTP 202 | seo2026-indexnow-key |
+
+---
+
+**第四轮总计：31 次成功提交（11 个目录站）**
+**IndexNow：3 个站共 212 个URL 全部提交成功**
+**累计总计：55 次成功提交 + 1 次待验证（跨4轮，共20个不同目录站）**
